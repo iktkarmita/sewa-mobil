@@ -29,3 +29,5 @@ cara menjalankan :
 11. Buka terminal di dalam project, ketikan 'php artisan serve'
 12. Jalankan project dengan ketik http://127.0.0.1:8000/.
 13. login dengan username : admin, password : karmita
+
+NOTE : INI HANYA DUMMY DATA ATAU DATA PALSU SEPERTI NAMA MOBIL, DLL
